@@ -70,10 +70,10 @@ The analysis focused on answering the following business questions:
 ![Sales Trend](sales_trend.png)
 
 ### Product and Category Analysis
-![Top Products and Category](top_products and category.png)
+![Top Products and Category](top_products_and_category.png)
 
 ### Discount Analysis
-![Profit by Discount](profits by discount.png)
+![Profit by Discount](profits_by_discount.png)
 
 ---
 
